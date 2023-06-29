@@ -1,0 +1,6 @@
+logs
+models
+__pycache__
+TEST
+TRAIN
+cifar-10-batches-py
